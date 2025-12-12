@@ -1,5 +1,5 @@
 # Multimedia-Management-Application
-a
+An application that manages books, movies and TV show using object-oriented programming and STL containers/algorithms. Media data is loaded from CSV files into dynamically created objects, organized using collections and displayed in both formatted table and detailed view. The project implement custom parsers, exception handling and modular design.
 
 
 ## Multimedia Management System
